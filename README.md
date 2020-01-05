@@ -5,8 +5,12 @@ Makefile which will execute a small C++ program which would output some data to 
 When you clone this repository you must have a director like this:
 ```
 README.md
-file_writer
+file_writer/
     Makefile
     main.cpp
     read_and_plot.py
+```
+To run these programs simply run :
+```
+make
 ```
