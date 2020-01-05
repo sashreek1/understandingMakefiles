@@ -19,4 +19,8 @@ make
 
 Compiling the source code files can be tiring, especially when you have to include several source files and type the compiling command every time you need to compile. Makefiles are the solution to simplify this task.
 
-Makefiles are special format files that help build and manage the projects automatically.
+Makefiles are special format files that help build and manage the projects automatically.  
+  
+Make is called a build tool - it builds data files, plots, papers, programs or libraries. It can also update existing files if desired.
+
+Make tracks the dependencies between the files it creates and the files used to create these. If one of the original files (e.g. a data file) is changed, then Make knows to recreate, or update, the files that depend upon this file 
