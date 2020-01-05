@@ -15,7 +15,7 @@ To run these programs simply run :
 make
 ```
 # What is a makefile ?
-<img src="https://cdn.dribbble.com/users/6491/screenshots/2738115/makefile-logo-v2.png" style="width: 200px; max-width: 100%; height: auto" title="Click for the larger version." />
+<img src="https://cdn.dribbble.com/users/6491/screenshots/2738115/makefile-logo-v2.png" style="width: 100px; max-width: 100%; height: auto" title="Click for the larger version." />
 
 Compiling the source code files can be tiring, especially when you have to include several source files and type the compiling command every time you need to compile. Makefiles are the solution to simplify this task.
 
